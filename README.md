@@ -1,2 +1,2 @@
 # Sales-Management-Analytics
-C# Analytics Based Sale Management System
+C# Analytics Based Sales Management System
